@@ -2,7 +2,7 @@ Application Developed with Spring Boot Application
 
 UnZip The Application 
 
-execute **mnvnw clean build**
+execute **mvnw clean build**
 
 Search The File Name **AtmLocatorDemoApplication** and Execute The Main Method.
 
